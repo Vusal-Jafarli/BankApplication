@@ -1,0 +1,28 @@
+C:\Users\jafar\OneDrive\Masaüstü\ara\ATMapplication\ATMapplication\bin\Debug\net6.0\ATMapplication.exe
+C:\Users\jafar\OneDrive\Masaüstü\ara\ATMapplication\ATMapplication\bin\Debug\net6.0\ATMapplication.deps.json
+C:\Users\jafar\OneDrive\Masaüstü\ara\ATMapplication\ATMapplication\bin\Debug\net6.0\ATMapplication.runtimeconfig.json
+C:\Users\jafar\OneDrive\Masaüstü\ara\ATMapplication\ATMapplication\bin\Debug\net6.0\ATMapplication.dll
+C:\Users\jafar\OneDrive\Masaüstü\ara\ATMapplication\ATMapplication\bin\Debug\net6.0\ATMapplication.pdb
+C:\Users\jafar\OneDrive\Masaüstü\ara\ATMapplication\ATMapplication\obj\Debug\net6.0\ATMapplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jafar\OneDrive\Masaüstü\ara\ATMapplication\ATMapplication\obj\Debug\net6.0\ATMapplication.AssemblyInfoInputs.cache
+C:\Users\jafar\OneDrive\Masaüstü\ara\ATMapplication\ATMapplication\obj\Debug\net6.0\ATMapplication.AssemblyInfo.cs
+C:\Users\jafar\OneDrive\Masaüstü\ara\ATMapplication\ATMapplication\obj\Debug\net6.0\ATMapplication.csproj.CoreCompileInputs.cache
+C:\Users\jafar\OneDrive\Masaüstü\ara\ATMapplication\ATMapplication\obj\Debug\net6.0\ATMapplication.dll
+C:\Users\jafar\OneDrive\Masaüstü\ara\ATMapplication\ATMapplication\obj\Debug\net6.0\refint\ATMapplication.dll
+C:\Users\jafar\OneDrive\Masaüstü\ara\ATMapplication\ATMapplication\obj\Debug\net6.0\ATMapplication.pdb
+C:\Users\jafar\OneDrive\Masaüstü\ara\ATMapplication\ATMapplication\obj\Debug\net6.0\ATMapplication.genruntimeconfig.cache
+C:\Users\jafar\OneDrive\Masaüstü\ara\ATMapplication\ATMapplication\obj\Debug\net6.0\ref\ATMapplication.dll
+C:\Users\jafar\OneDrive\Masaüstü\New folder (3)\ATMapplication\bin\Debug\net6.0\ATMapplication.exe
+C:\Users\jafar\OneDrive\Masaüstü\New folder (3)\ATMapplication\bin\Debug\net6.0\ATMapplication.deps.json
+C:\Users\jafar\OneDrive\Masaüstü\New folder (3)\ATMapplication\bin\Debug\net6.0\ATMapplication.runtimeconfig.json
+C:\Users\jafar\OneDrive\Masaüstü\New folder (3)\ATMapplication\bin\Debug\net6.0\ATMapplication.dll
+C:\Users\jafar\OneDrive\Masaüstü\New folder (3)\ATMapplication\bin\Debug\net6.0\ATMapplication.pdb
+C:\Users\jafar\OneDrive\Masaüstü\New folder (3)\ATMapplication\obj\Debug\net6.0\ATMapplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jafar\OneDrive\Masaüstü\New folder (3)\ATMapplication\obj\Debug\net6.0\ATMapplication.AssemblyInfoInputs.cache
+C:\Users\jafar\OneDrive\Masaüstü\New folder (3)\ATMapplication\obj\Debug\net6.0\ATMapplication.AssemblyInfo.cs
+C:\Users\jafar\OneDrive\Masaüstü\New folder (3)\ATMapplication\obj\Debug\net6.0\ATMapplication.csproj.CoreCompileInputs.cache
+C:\Users\jafar\OneDrive\Masaüstü\New folder (3)\ATMapplication\obj\Debug\net6.0\ATMapplication.dll
+C:\Users\jafar\OneDrive\Masaüstü\New folder (3)\ATMapplication\obj\Debug\net6.0\refint\ATMapplication.dll
+C:\Users\jafar\OneDrive\Masaüstü\New folder (3)\ATMapplication\obj\Debug\net6.0\ATMapplication.pdb
+C:\Users\jafar\OneDrive\Masaüstü\New folder (3)\ATMapplication\obj\Debug\net6.0\ATMapplication.genruntimeconfig.cache
+C:\Users\jafar\OneDrive\Masaüstü\New folder (3)\ATMapplication\obj\Debug\net6.0\ref\ATMapplication.dll
